@@ -1,0 +1,1 @@
+module.exports = "Imported fromt the content file"
